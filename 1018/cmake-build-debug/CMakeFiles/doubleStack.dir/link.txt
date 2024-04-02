@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\doubleStack.dir/objects.a
+D:\enviro\mingw64\bin\ar.exe cr CMakeFiles\doubleStack.dir/objects.a @CMakeFiles\doubleStack.dir\objects1.rsp
+D:\enviro\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\doubleStack.dir/objects.a -Wl,--no-whole-archive -o doubleStack.exe -Wl,--out-implib,libdoubleStack.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\doubleStack.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\joseph.dir/objects.a
+D:\enviro\mingw64\bin\ar.exe cr CMakeFiles\joseph.dir/objects.a @CMakeFiles\joseph.dir\objects1.rsp
+D:\enviro\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\joseph.dir/objects.a -Wl,--no-whole-archive -o joseph.exe -Wl,--out-implib,libjoseph.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\joseph.dir\linklibs.rsp

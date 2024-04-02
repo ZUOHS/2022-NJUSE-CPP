@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\circleToPrint.dir/objects.a
+D:\enviro\mingw64\bin\ar.exe cr CMakeFiles\circleToPrint.dir/objects.a @CMakeFiles\circleToPrint.dir\objects1.rsp
+D:\enviro\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\circleToPrint.dir/objects.a -Wl,--no-whole-archive -o circleToPrint.exe -Wl,--out-implib,libcircleToPrint.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\circleToPrint.dir\linklibs.rsp

@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="1004"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mountaineering_steps">
+				<Option output="D:/Code2022A/CPP/1004/cmake-build-debug/mountaineering_steps.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 mountaineering_steps"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mountaineering_steps/fast">
+				<Option output="D:/Code2022A/CPP/1004/cmake-build-debug/mountaineering_steps.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 mountaineering_steps/fast"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ArrayList">
+				<Option output="D:/Code2022A/CPP/1004/cmake-build-debug/ArrayList.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 ArrayList"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ArrayList/fast">
+				<Option output="D:/Code2022A/CPP/1004/cmake-build-debug/ArrayList.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 ArrayList/fast"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="overlap">
+				<Option output="D:/Code2022A/CPP/1004/cmake-build-debug/overlap.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 overlap"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="overlap/fast">
+				<Option output="D:/Code2022A/CPP/1004/cmake-build-debug/overlap.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 overlap/fast"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="basic_interpreter">
+				<Option output="D:/Code2022A/CPP/1004/cmake-build-debug/basic_interpreter.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 basic_interpreter"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="basic_interpreter/fast">
+				<Option output="D:/Code2022A/CPP/1004/cmake-build-debug/basic_interpreter.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 basic_interpreter/fast"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BFintepreter">
+				<Option output="D:/Code2022A/CPP/1004/cmake-build-debug/BFintepreter.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 BFintepreter"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BFintepreter/fast">
+				<Option output="D:/Code2022A/CPP/1004/cmake-build-debug/BFintepreter.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 BFintepreter/fast"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="circleToPrint">
+				<Option output="D:/Code2022A/CPP/1004/cmake-build-debug/circleToPrint.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 circleToPrint"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="circleToPrint/fast">
+				<Option output="D:/Code2022A/CPP/1004/cmake-build-debug/circleToPrint.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 circleToPrint/fast"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="matrixRotate">
+				<Option output="D:/Code2022A/CPP/1004/cmake-build-debug/matrixRotate.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 matrixRotate"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="matrixRotate/fast">
+				<Option output="D:/Code2022A/CPP/1004/cmake-build-debug/matrixRotate.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 matrixRotate/fast"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="joseph">
+				<Option output="D:/Code2022A/CPP/1004/cmake-build-debug/joseph.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 joseph"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="joseph/fast">
+				<Option output="D:/Code2022A/CPP/1004/cmake-build-debug/joseph.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 joseph/fast"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="reflect">
+				<Option output="D:/Code2022A/CPP/1004/cmake-build-debug/reflect.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 reflect"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="reflect/fast">
+				<Option output="D:/Code2022A/CPP/1004/cmake-build-debug/reflect.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="d:\enviro\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 reflect/fast"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Code2022A/CPP/1004/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/enviro/mingw64/bin/mingw32-make.exe -f &quot;D:/Code2022A/CPP/1004/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Code2022A/CPP/1004/ArrayList.cpp">
+			<Option target="ArrayList"/>
+		</Unit>
+		<Unit filename="D:/Code2022A/CPP/1004/BFintepreter.cpp">
+			<Option target="BFintepreter"/>
+		</Unit>
+		<Unit filename="D:/Code2022A/CPP/1004/basic_interpreter.cpp">
+			<Option target="basic_interpreter"/>
+		</Unit>
+		<Unit filename="D:/Code2022A/CPP/1004/circleToPrint.cpp">
+			<Option target="circleToPrint"/>
+		</Unit>
+		<Unit filename="D:/Code2022A/CPP/1004/joseph.cpp">
+			<Option target="joseph"/>
+		</Unit>
+		<Unit filename="D:/Code2022A/CPP/1004/matrixRotate.cpp">
+			<Option target="matrixRotate"/>
+		</Unit>
+		<Unit filename="D:/Code2022A/CPP/1004/mountaineering_steps.cpp">
+			<Option target="mountaineering_steps"/>
+		</Unit>
+		<Unit filename="D:/Code2022A/CPP/1004/overlap.cpp">
+			<Option target="overlap"/>
+		</Unit>
+		<Unit filename="D:/Code2022A/CPP/1004/reflect.cpp">
+			<Option target="reflect"/>
+		</Unit>
+		<Unit filename="D:/Code2022A/CPP/1004/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

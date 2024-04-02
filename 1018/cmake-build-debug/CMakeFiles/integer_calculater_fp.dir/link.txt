@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\integer_calculater_fp.dir/objects.a
+D:\enviro\mingw64\bin\ar.exe cr CMakeFiles\integer_calculater_fp.dir/objects.a @CMakeFiles\integer_calculater_fp.dir\objects1.rsp
+D:\enviro\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\integer_calculater_fp.dir/objects.a -Wl,--no-whole-archive -o integer_calculater_fp.exe -Wl,--out-implib,libinteger_calculater_fp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\integer_calculater_fp.dir\linklibs.rsp

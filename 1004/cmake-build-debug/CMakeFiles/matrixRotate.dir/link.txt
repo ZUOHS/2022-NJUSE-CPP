@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\matrixRotate.dir/objects.a
+D:\enviro\mingw64\bin\ar.exe cr CMakeFiles\matrixRotate.dir/objects.a @CMakeFiles\matrixRotate.dir\objects1.rsp
+D:\enviro\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\matrixRotate.dir/objects.a -Wl,--no-whole-archive -o matrixRotate.exe -Wl,--out-implib,libmatrixRotate.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\matrixRotate.dir\linklibs.rsp
